@@ -22,7 +22,7 @@ A command-line task manager built with Python using Typer, Rich, and SQLite3.
 ```bash
 pip install typer rich
 ```
-## USAGE
+## Usage
 
 ```bash
 # Add a task
