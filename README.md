@@ -21,7 +21,10 @@ A command-line task manager built with Python using Typer, Rich, and SQLite3.
 
 ```bash
 pip install typer rich
+```
+##USAGE
 
+```bash
 # Add a task
 python TodoCLI.py add "Workout" "Fitness"
 
@@ -36,3 +39,4 @@ python TodoCLI.py update 1 --task "Morning Yoga" --category "Health"
 
 # Delete a task
 python TodoCLI.py delete 1
+```
